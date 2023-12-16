@@ -1,0 +1,2 @@
+kaka=("fufgisjgegheuigeijg")
+print(kaka)
